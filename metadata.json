@@ -1,0 +1,6 @@
+{
+  "name": "Image Story Ghostwriter",
+  "description": "Upload an image to analyze the scene and mood, ghostwrite an evocative opening story paragraph, listen with expressive AI voice narration, and collaborate with a creative writing AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
